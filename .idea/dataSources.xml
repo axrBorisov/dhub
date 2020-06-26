@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="homestead@localhost" uuid="b05177be-aec2-410d-8f55-f7eb4bb3c606">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:33060/homestead</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="PostgreSQL - dance@localhost" uuid="45806342-f7f8-47f5-bde4-6956f88f1fd3">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:54320/homestead</jdbc-url>
+    </data-source>
+  </component>
+</project>
